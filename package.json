@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsrsasign": "^11.1.0",
+    "luch-request": "^3.1.1"
+  }
+}

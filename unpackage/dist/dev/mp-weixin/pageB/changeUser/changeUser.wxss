@@ -1,0 +1,64 @@
+.changePassword {
+  display: flex;
+  padding: 10rpx 20rpx;
+  margin-bottom: 20rpx;
+  position: relative;
+}
+.changePassword input {
+  height: 80rpx;
+  flex: 1;
+  border: 1rpx solid #55ff00;
+  margin-left: 30rpx;
+  padding: 0 90rpx 0 10rpx;
+  border-radius: 20rpx;
+}
+.input_box {
+  display: flex;
+  margin-left: 20rpx;
+  width: 190rpx;
+}
+.icon {
+  color: red;
+  line-height: 70rpx;
+}
+.text {
+  width: 180rpx;
+  line-height: 80rpx;
+}
+.userSubmitSty {
+  display: flex;
+  margin-top: 100rpx;
+}
+.userSubmitSty button {
+  width: 200rpx;
+  font-size: 40rpx;
+}
+.formUserSty {
+  margin-top: 200rpx;
+}
+.eye-icon {
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  transform: translateY(-50%);
+  width: 30px;
+  height: 30px;
+}
+.commonality_row {
+  margin-top: 200rpx;
+}
+.commonality {
+  display: flex;
+  height: 60rpx;
+  margin-left: 30rpx;
+}
+.commonality input {
+  border: 1rpx solid #55ff00;
+  height: 60rpx;
+  width: 60%;
+  border-radius: 20rpx;
+}
+.commonality text {
+  text-align: right;
+  line-height: 60rpx;
+}

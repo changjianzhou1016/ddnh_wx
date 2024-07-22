@@ -1,0 +1,73 @@
+page {
+  background-color: #eee;
+}
+.container {
+  position: relative;
+}
+.container image {
+  width: 100%;
+  height: 500rpx;
+  position: absolute;
+}
+.submitSty {
+  display: flex;
+  margin-left: 90rpx;
+  justify-content: space-evenly;
+}
+.submitSty button {
+  margin-top: 80rpx;
+  width: 250rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+}
+.form_Verification {
+  width: 150rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: right;
+}
+.Verification {
+  display: flex;
+  height: 80rpx;
+  line-height: 80rpx;
+}
+.Verification input {
+  width: 200rpx;
+  height: 80rpx;
+}
+.Verification image {
+  margin-left: 230rpx;
+  width: 200rpx;
+  height: 80rpx;
+}
+.form {
+  display: flex;
+  width: 100%;
+  height: 80rpx;
+  padding: 0 20rpx;
+  margin: 0 0 40rpx 100rpx;
+  left: 20rpx;
+}
+.form text {
+  width: 150rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: right;
+}
+.formInput {
+  height: 80rpx;
+  width: 380rpx;
+  border: 1rpx solid #ffaa00;
+  border-radius: 20rpx;
+  padding-left: 10rpx;
+}
+.title {
+  margin: -100rpx 0 200rpx 80rpx;
+  font-size: 80rpx;
+  color: #ffffff;
+  font-family: Georgia, 'Gill Sans', Times, serif;
+}
+.pic {
+  position: absolute;
+  top: 300rpx;
+}
